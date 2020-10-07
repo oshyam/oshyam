@@ -18,6 +18,10 @@
    
   <a href="https://www.instagram.com/shyamsinghrajput007/">
   <img align="left" alt="Shyam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+   </a> 
+   
+    <a href="https://cyberncode.com/">
+  <img align="left" alt="Shyam's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg" />
    </a> <br/>
 
 
