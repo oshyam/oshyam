@@ -24,6 +24,7 @@
   <img align="left" alt="Shyam's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg" />
    </a><br/>
 
+### Man is what he thinks about all day long - Ralph Waldo
 
 ### Little bit about me:
 - 🔭 I’m currently working on Web Development with JavaScript.
