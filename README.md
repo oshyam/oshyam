@@ -4,6 +4,8 @@
 
 <img src="https://media.giphy.com/media/YMjxt3IpkgY20VBFRG/source.gif" alt="Welcome to Shyam Github Page"  height="200px" width="200px" />
 
+[![Shyam Mohan Kunwar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/oshyam)
+
 <a href="https://www.linkedin.com/in/shyammohankunwar/">
   <img align="left" alt="Shyam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
