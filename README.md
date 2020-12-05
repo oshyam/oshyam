@@ -29,7 +29,7 @@
    </a><br/>
 
 ### Man is what he thinks about all day long - Ralph Waldo
-### Certification:Through my belief Knowledge > Certification, Although it's fun to learn MERN
+### Certification:<br/>Through my belief Knowledge > Certification, Although it's fun to learn MERN
 <p>URL:<a href="https://courses.learncodeonline.in/learn/certificate/2852075-50332">SHYAM MERN COURSE </a></P>
 ### Little bit about me:
 - 🔭 I’m currently working on Web Development with JavaScript.
