@@ -56,9 +56,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshyam&theme=light&hide_langs_below=1" />
 
 
-### Stats:
-![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=oshyam&show_icons=true)
-
 ### Show some ❤️ by staring ⭐ some of the repository.
 
 <!--
