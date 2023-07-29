@@ -1,4 +1,4 @@
-###  👋 Hola,   I am Shyam Mohan Kunwar 👨‍💻
+###  👋 Hola,   I am Shyam Kunwar 👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=your-github-oshyam&color=green)
 
