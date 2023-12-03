@@ -12,7 +12,7 @@
   <img align="left" alt="Shyam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   
- <a href="https://twitter.com/Shyam_Singh007/">
+ <a href="https://twitter.com/ShyamMohan57732">
   <img align="left" alt="Shyam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
    </a>
    
@@ -31,13 +31,13 @@
 ### Man is what he thinks about all day long - Ralph Waldo
 ### Certification:<br/>Through my belief, Knowledge > Certification, Although it's listed in <a href="https://github.com/oshyam/Achievement">Achivement Repo</a>
 
-### Little bit about me:
+### A little bit about me:
 - 🔭 I’m currently working on Web Development with JavaScript.
-- 🌱 I’m currently learning NodeJS, AngularJS and ReactJS.
-- 👯 I’m looking to collaborate on some of the repository.
+- 🌱 I’m currently learning and making apps in  NodeJS, ReactJS, and sometimes in AngularJS.
+- 👯 I’m looking to collaborate on some of the repositories.
 - 🤔 I’m looking for help with projects and frameworks.
-- 💬 Ask me about Web Development and stuff related to subject.
-- ✍️  I Write Blogs on : [cyberncode](https://cyberncode.com)
+- 💬 Ask me about Web Development and stuff related to the subject.
+- ✍️  I Write Blogs on [cyberncode](https://cyberncode.com)
 - 📫 How to reach me: [linkedin.com](https://www.linkedin.com/in/shyammohankunwar/) , [Instagram](https://www.instagram.com/shyamsinghrajput007/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love reading Self-Help Books 📖.
@@ -51,6 +51,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=oshyam&theme=dark&hide_border=false)<br/>
+
 ![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=oshyam&show_icons=true)
 
 
