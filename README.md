@@ -52,8 +52,6 @@
 
 ### Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=oshyam&theme=dark&hide_border=false)<br/>
-
 ![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=oshyam&show_icons=true)
 
 
