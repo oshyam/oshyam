@@ -33,14 +33,14 @@
 
 ### A little bit about me:
 - 🔭 I’m currently working on Web Development with JavaScript.
-- 🌱 I’m currently learning and making apps in  NodeJS, ReactJS, and sometimes in AngularJS.
+- 🌱 I’m currently making apps in  NodeJS, ReactJS, and sometimes in AngularJS.
 - 👯 I’m looking to collaborate on some of the repositories.
 - 🤔 I’m looking for help with projects and frameworks.
 - 💬 Ask me about Web Development and stuff related to the subject.
-- ✍️  I Write Blogs on [cyberncode](https://cyberncode.com)
+- ✍️  I Write Blogs on [medium](#)
 - 📫 How to reach me: [linkedin.com](https://www.linkedin.com/in/shyammohankunwar/) , [Instagram](https://www.instagram.com/shyamsinghrajput007/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love reading Self-Help Books 📖.
+- ⚡ Fun fact: I love reading non-fiction books 📖 and play call of duty and write code to make real world projects 👩‍💻 in my spare time.
 
 **Languages and Tools:**  
 
