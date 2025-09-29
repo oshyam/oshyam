@@ -1,4 +1,3 @@
-oshyam/readme.md
 ###  👋 Hola, I am Shyam Kunwar 👨‍💻
 #### Senior Developer & AI Practitioner
 
