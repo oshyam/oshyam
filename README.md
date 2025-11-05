@@ -103,7 +103,7 @@ I am a dedicated and innovative Software Engineer with over 3.6 years of profess
 
 ### 📒 Few Gists that i recently added:
 
-- [ReactJS Hooks Coding Question with Answer ]([https://gist.github.com/oshyam/15e23c34df15bf895897471867652e19](https://gist.github.com/oshyam/15e23c34df15bf895897471867652e19))
+- [ReactJS Hooks Coding Question with Answer ](https://gist.github.com/oshyam/15e23c34df15bf895897471867652e19)
 
 
 
