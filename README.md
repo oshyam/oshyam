@@ -31,7 +31,7 @@
 
 ### Man is what he thinks about all day long - Ralph Waldo
 
-I am a dedicated and innovative Software Engineer with over 3.6 years of professional experience, specializing in Web Development. I excel at building responsive, user-centric web applications using modern technologies and am passionate about creating scalable solutions that enhance user experience.
+I am a dedicated and innovative Software Engineer with over 4 years of professional experience, specializing in Web Development. I excel at building responsive, user-centric web applications using modern technologies and am passionate about creating scalable solutions that enhance user experience.
 
 ### 🚀 Current Role:
 **Senior Developer** - Working on enhancing Ad Campaign Management Portal projects, integrating Google APIs, Microservices, authentication systems, and AI technologies to support major publishers and clients.
